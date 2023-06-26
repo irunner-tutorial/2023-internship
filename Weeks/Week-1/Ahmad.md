@@ -4,6 +4,7 @@ This is what i've learned in the last 7 days:
 3. I became better with problem solving because i solved some coding bat problems.
 4. I learnt git and i am using my knowledge to push files to another persons repo.
 
+<<<<<<< HEAD
 Ward Comments:
 1. Very experienced and helps teach me, Mashallah
 2. idk what else ur pretty good at git already tbh
@@ -13,3 +14,9 @@ Ward Comments:
 2. Likes chickens
 3. Picks up ocncepts really quickly but his work ethic can be questionable sometimes
 4. has good prior knowledge 
+=======
+
+## Ahmad's comment '
+1. he is such a goood programmer he should have an internship by now
+2. he's funny friendly and loves chickens
+>>>>>>> 3c87347 (Ahmad is number one)
