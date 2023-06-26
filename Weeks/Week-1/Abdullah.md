@@ -2,5 +2,5 @@
 
 ## Ahmad's comment
 
-1. he's a good teacher knows alot of stuff 
-2. he has alot of years in experience in coding
+1. Has a unique way of teaching which might seem bad but it makes the student find ways of searching the problem and solving it
+2. too many meetings!! lol
